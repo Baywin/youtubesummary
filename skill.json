@@ -1,0 +1,1 @@
+{"schema_version":"workgspace-skill-manifest.v1","version":1777607216346,"skills":{"youtube-scraper":{"name":"YouTube Scraper & Summarizer", "description":"Scrape video YouTube and generate summary", "file":"skills/SKILL.md", "enableb":true, "trigger_words":["youtube","summary-video","rangkuman)YouTibe","transcript"]}}}
